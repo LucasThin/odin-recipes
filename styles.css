@@ -1,0 +1,36 @@
+body {
+    font-family : Helvetica, Arial, sans-serif;
+    background-color: #dbdbdb;
+}
+
+h1 {
+    font-size : 42px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+h6 {
+    font-weight: 200;
+}
+
+em {
+    color: #969696;
+}
+
+a {
+    color : #757575;
+    font-weight: 700;
+}
+
+p { 
+    color :#2f302f;
+}
+
+img {
+    height : 500px;
+    width : auto;
+}
