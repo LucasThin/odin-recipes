@@ -1,11 +1,13 @@
 body {
     font-family : Helvetica, Arial, sans-serif;
     background-color: #dbdbdb;
+    padding : 20px;
 }
 
 h1 {
     font-size : 42px;
     font-weight: 900;
+    margin-top: -20px;
 }
 
 h2 {
@@ -17,9 +19,6 @@ h6 {
     font-weight: 200;
 }
 
-em {
-    color: #969696;
-}
 
 a {
     color : #757575;
@@ -28,9 +27,22 @@ a {
 
 p { 
     color :#2f302f;
+    margin-bottom: -8px;
+}
+
+p em {
+    color: #969696;
+    margin-bottom: 24px;
+    display: inline-block;
 }
 
 img {
     height : 500px;
     width : auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+div {
+    margin-bottom : 24px;
 }
